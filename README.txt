@@ -12,7 +12,7 @@ Tech Stack:
 
 APIs used:
 	UniProt REST API
-	EBI AlphaFold DB API
+	PDB API
 	DrugBank API
 	DisGeNET API
 
