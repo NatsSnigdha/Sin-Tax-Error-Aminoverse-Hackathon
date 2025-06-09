@@ -1,9 +1,9 @@
 ***Team Sin-Tax Errors***
 
-Team Roles:
-	Snigdha Naithani - Frontend
-	Aarush Bayyana - Backend
-	Vishrutha Udandra
+Team:
+	Snigdha Naithani 
+	Aarush Bayyana 
+	Vishrutha Udandra 
 	Lakshmi Nisha
 	Diya Sengupta
 
